@@ -10,7 +10,7 @@ This repository is dedicated to providing resources and guidance on developing s
 
 ## Cyber Attacks
 ### Cross Site Scripting & Other common attacks
-*Reflected XSS: Occurs when an attacker injects a payload that is reflected off a web server.
+* Reflected XSS: Occurs when an attacker injects a payload that is reflected off a web server.
 * Stored XSS: The injected malicious script is stored on the server and is later displayed to users who access the affected page.
 * DOM-based XSS: The vulnerability exists within the client-side code rather than the server-side code.
 
@@ -30,4 +30,5 @@ When writing code, it's essential to prioritize security and implement proper sa
 
 ## Additional Resources
 Zap Proxy for web app scanning: https://www.zaproxy.org/
+
 Xampp for open-source cross-platform web server solution stack packages https://www.apachefriends.org/
